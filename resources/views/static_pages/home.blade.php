@@ -33,7 +33,7 @@
             <a class="btn btn-lg btn-success" href="{{ route('signup') }}" role="button">现在注册</a>
         </p>
         <p>
-            若注册失败，则通过yuanjihuaok@example，密码secret <br>
+            若注册失败，则通过yuanjihuaok@example.com，密码secret <br>
             进行登录体验。
         </p>
     </div>
